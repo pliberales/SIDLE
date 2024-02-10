@@ -3,13 +3,13 @@
 
 # Content Table
 1. [Spanish](#Spanish)
-   * [Requerimientos Principales](##Requerimientos-Principales)
-   * [Requerimientos Secundarios](##Requerimientos-Secundarios)
-   * [Versiones](##Versiones)
+   * [Requerimientos Principales](#Requerimientos-Principales)
+   * [Requerimientos Secundarios](#Requerimientos-Secundarios)
+   * [Versiones](#Versiones)
 2. [English](#English)
-   * [Main Requeriments](##Main-Requeriments)
-   * [Secondary Requeriments](##Secondary-Requeriments)
-   * [Versions](##Versions)
+   * [Main Requeriments](#Main-Requeriments)
+   * [Secondary Requeriments](#Secondary-Requeriments)
+   * [Versions](#Versions)
 
 # Spanish
 
